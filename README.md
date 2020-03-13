@@ -1,8 +1,8 @@
-<center>
+<p align="center">
     
 # Project: CRIME INCIDENT REPORTS 
 ### Jiangyun Wang <br> Northeastern University, Boston, MA, USA
-</center>
+</p>
 
 --- 
 <center>
